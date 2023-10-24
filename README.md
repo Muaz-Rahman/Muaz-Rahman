@@ -1,16 +1,17 @@
-### Hi there 👋
+# Congratulations, you have reached ~~the last boss~~ Muaz! 🥴
 
-<!--
-**Muaz-Rahman/Muaz-Rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer who likes trying out new frameworks to get a better understanding of how the solutions of a problem can work.
+As of my writing this, I am a fresh graduate and looking for a place to get hands on opportunity to become the best ~~cheesecake~~ programmer ever. 
 
-Here are some ideas to get you started:
+# 🤔 I am mostly interested in:
+ - Web & mobile app development
+ - Computer networks
+ - IoT (Growing interest)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ⚡ Facts about me: 
+ - I am a **Muslim**, rules of Islam dictates my way of life. Period.
+ - I like studying different languages, target is to reach 5 languages with all 4 skills at a satisfactory level.
+ - I like reading books, novels specially.
+ - I like medieval weapons and the art of using them (HEMA is cool), swords and spears at the top of my list. Gonna start a collection someday. ⚔️
+ - I like chilling out. I love chilling out. One of my most favorite activities is to sit somewhere and space out, `System Idle Process at 100%` .
+ - I am a very very average programmer. I just have a habit of not stopping before the problem is solved (and I love to suffer, of course) so I end up getting some results- after a lot of headbanging.
