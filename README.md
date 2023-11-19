@@ -1,4 +1,4 @@
-# Congratulations, you have reached ~~the last boss~~ Muaz! 🥴
+# Congratulations, you have reached Muaz! 🥴
 
 I am a software engineer who likes trying out new frameworks to get a better understanding of how the solutions of a problem are supposed to work and gain insight from them.
 As of my writing this, I am a fresh graduate and looking for a place to get hands on opportunity to become the best ~~cheesecake~~ programmer ever. 
